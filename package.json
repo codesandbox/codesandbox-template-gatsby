@@ -1,0 +1,19 @@
+{
+  "name": "project-template-gatsby",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gatsby Project",
+  "license": "Apache-2.0",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
