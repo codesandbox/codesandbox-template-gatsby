@@ -1,6 +1,6 @@
 # Gatsby
 
-This is a [Gatsby](https://www.gatsbyjs.com/) project bootstrapped with [`create-next-app`](https://github.com/vercel/Gatsby/tree/canary/packages/create-next-app).
+This is a [Gatsby](https://www.gatsbyjs.com/) project bootstrapped with [`create-gatsby`](https://www.npmjs.com/package/create-gatsby).
 
 [Configuration](https://docs.codesandbox.io/our-products/codesandbox-projects/configuration-overview) has been added to optimize it for [CodeSandbox Projects](codesandbox.io/p/dashboard).
 
